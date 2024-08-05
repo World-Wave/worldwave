@@ -1,5 +1,5 @@
-# worldwave
-<b> This repository contains the implementation of a Reth (Rocket Pool ETH) client integrated with World ID verification and gas subsidy features. The system is designed to provide a seamless user registration process and efficient transaction processing with benefits for verified users.</b>
+# Worldwave
+ This repository contains the implementation of a Reth (Rocket Pool ETH) client integrated with World ID verification and gas subsidy features. The system is designed to provide a seamless user registration process and efficient transaction processing with benefits for verified users.
 
 ## Introduction
 The Reth Client with World ID Integration provides a secure and efficient platform for user registration and transaction processing. By incorporating World ID verification, the system ensures that users are authenticated, and offers gas subsidies to verified users, enhancing the overall transaction experience.
